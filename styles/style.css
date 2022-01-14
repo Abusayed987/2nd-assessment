@@ -6,9 +6,9 @@ body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Roboto Slab', serif;
 }
-/* -----------------------
+/* ---------------------------------
  section container start 
-------------------------- */
+------------------------------------ */
 
 .section-tittle{
     margin-left: 62px;
@@ -16,7 +16,11 @@ font-family: 'Roboto Slab', serif;
 }
 .container{
     display: flex;
-    justify-content: center
+    justify-content: center;
+}
+.container:hover img{
+    transform: scale(2) rotate(10deg);
+    transition: transform 0.8s ease-in-out;
 }
 .start-influencer{
     width: 582px;
@@ -34,7 +38,17 @@ h1{
     background-color: #E02C6D;
     border-radius: 41px;
 }
-.main-camera{
+.main-camera {
+    margin-left: 133px;
     width: 440px;
-    height: 414px; 
 }
+.main-camera:hover img{
+   
+}
+/*----------------------
+ Section container end 
+------------------------ */
+
+/* -----------------------------------
+section products start 
+-------------------------------------- */
