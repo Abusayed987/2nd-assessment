@@ -29,6 +29,7 @@ body{
     width: 682px;
     height: 370px;
     margin-right: 10px;
+    padding-left: 40px;
 }
 h1 .tittle{
     font-weight: bold;
