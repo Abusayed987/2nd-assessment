@@ -4,7 +4,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif;
 }
 /* ---------------------------------
  section container start 
@@ -126,3 +126,46 @@ bonus section start
 /* -----------------------
 bonus section End 
 -------------------------*/
+
+/* -----------------------------------------------
+footer section start
+---------------------------------------------------*/
+.footer-section{
+    width: 1440px;;
+    height: 239px;
+    background-color: #0A0826;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+}
+.footer-div{
+    width: 362px;
+    height: 139px;
+    color: #FFFFFF; 
+    text-align: center; 
+}
+
+h3{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+.copyright{
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.logo{
+    font-size: 28px;
+}
+.fa-instagram{
+    margin-right: 16px;
+}
+.fa-dribbble{
+    margin-right: 16px;
+}
+.fa-twitter{
+    margin-right: 16px;
+}
+/* --------------------------------------------------
+footer section End
+-----------------------------------------------------*/
