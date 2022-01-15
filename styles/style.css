@@ -13,12 +13,12 @@ body{
 .section-tittle{
     text-align: left;
     margin-left: 75px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .container{
     display: flex;
     justify-content: center;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
    
 }
 .container:hover img{
