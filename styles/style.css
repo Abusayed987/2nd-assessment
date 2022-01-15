@@ -93,9 +93,11 @@ h1 .tittle{
     color:  #787885;
 }
 a{
+    font-size: 22px;
     color: #E02C6D;
     text-decoration: none;
     float:right;
+    font-weight: bold;
     margin-right: 5px;
 }
 /*----------------------------------------- 
